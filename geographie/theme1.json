@@ -1,0 +1,80 @@
+{
+    "questions": [
+      {
+        "question": "Qui est généralement le premier acteur à intervenir lors d’une catastrophe en Corse ?",
+        "options": ["Les pompiers", "Les autorités locales", "Les ONG"],
+        "answer": 1
+      },
+      {
+        "question": "Quel acteur principal gère la communication officielle pendant une catastrophe ?",
+        "options": ["La Croix-Rouge", "Le préfet ou les autorités locales", "Les médias sociaux"],
+        "answer": 1
+      },
+      {
+        "question": "Qui est responsable de l’évaluation des dégâts et de la gestion des ressources après une catastrophe ?",
+        "options": ["Les citoyens", "Le gouvernement national", "Les autorités locales et les services d’urgence"],
+        "answer": 2
+      },
+      {
+        "question": "Les réseaux sociaux jouent-ils un rôle important dans la gestion de la catastrophe ?",
+        "options": ["Non, ils ne sont pas utilisés", "Oui, pour partager des informations en temps réel", "Oui, pour la gestion des secours"],
+        "answer": 1
+      },
+      {
+        "question": "Qui peut intervenir pour lutter contre la désinformation pendant une catastrophe ?",
+        "options": ["Les journalistes et les autorités publiques", "Les citoyens", "Les entreprises privées"],
+        "answer": 0
+      },
+      {
+        "question": "Que doit faire la population lors de l’annonce d’une catastrophe ?",
+        "options": ["Éviter d’écouter les médias", "Rester calme et suivre les consignes des autorités", "Partager des informations sur les réseaux sociaux"],
+        "answer": 1
+      },
+      {
+        "question": "Comment la population peut-elle aider à limiter la désinformation ?",
+        "options": ["En relayant des informations non vérifiées", "En vérifiant les sources avant de partager des informations", "En ignorant les alertes officielles"],
+        "answer": 1
+      },
+      {
+        "question": "Lorsque des rumeurs circulent, que doit faire la population ?",
+        "options": ["Les relayer pour plus de visibilité", "Chercher des sources officielles et fiables", "Ignorer les rumeurs et attendre la fin de la crise"],
+        "answer": 1
+      },
+      {
+        "question": "Quel comportement est dangereux pour la population pendant une catastrophe ?",
+        "options": ["Suivre les alertes de sécurité", "Ignorer les consignes de sécurité et évacuer de manière précipitée", "Collaborer avec les autorités locales"],
+        "answer": 1
+      },
+      {
+        "question": "La population doit-elle attendre l’intervention des secours avant d’agir ?",
+        "options": ["Oui, car elle n’est pas formée pour intervenir", "Non, elle peut prendre des mesures de sécurité immédiatement", "Oui, mais seulement pour la première heure"],
+        "answer": 1
+      },
+      {
+        "question": "À quel moment les autorités locales commencent-elles à organiser la gestion de la catastrophe ?",
+        "options": ["Dès que la catastrophe est annoncée", "Après l’événement, lorsque les dégâts sont évalués", "Après l'arrivée des secours"],
+        "answer": 0
+      },
+      {
+        "question": "Les ONG interviennent-elles avant ou après les autorités locales ?",
+        "options": ["Avant, pour organiser les premières réponses", "Après, pour fournir un soutien médical et humanitaire", "Elles n’interviennent pas"],
+        "answer": 1
+      },
+      {
+        "question": "Les médias commencent-ils à relayer des informations fiables dès l’annonce de la catastrophe ?",
+        "options": ["Non, ils attendent que l’information soit vérifiée", "Oui, dès les premières alertes", "Non, ils ne relaient que des informations secondaires"],
+        "answer": 0
+      },
+      {
+        "question": "Quand la population doit-elle commencer à suivre les alertes des autorités ?",
+        "options": ["Avant que la catastrophe n’ait lieu", "Lors de l’alerte officielle", "Après la catastrophe, lorsqu’il est déjà trop tard"],
+        "answer": 1
+      },
+      {
+        "question": "À quel moment les services de secours interviendront-ils en priorité ?",
+        "options": ["Immédiatement après l’événement pour sauver les victimes", "Lorsque l’alerte est donnée", "Après l’évaluation complète des dégâts"],
+        "answer": 0
+      }
+    ]
+  }
+  

@@ -1,0 +1,140 @@
+{
+    "questions": [
+      {
+        "question": "Quels sont les facteurs géographiques qui rendent la Corse vulnérable aux inondations ?",
+        "options": [
+          "A) Le relief montagneux qui concentre les eaux de pluie dans les vallées",
+          "B) La faible densité de population dans les zones côtières",
+          "C) La présence de vastes plages sablonneuses"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quels aménagements sont mis en place en Corse pour limiter les risques d'inondations ?",
+        "options": [
+          "A) Des digues et des systèmes de drainage dans les zones urbaines",
+          "B) La construction de grands barrages dans les montagnes",
+          "C) L'abandon des villes côtières en cas de fortes pluies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Comment la croissance démographique en Corse peut-elle augmenter les risques d'inondation ?",
+        "options": [
+          "A) En augmentant la végétation qui absorbe les eaux",
+          "B) En concentrant la population dans les zones à risque, notamment près des rivières et des côtes",
+          "C) En réduisant les infrastructures nécessaires à la gestion des inondations"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "En cas de fortes pluies et d'inondations, qui sont les principaux acteurs à intervenir en Corse ?",
+        "options": [
+          "A) Les autorités locales et les pompiers, qui gèrent les évacuations et la sécurité",
+          "B) Les touristes qui aident à sécuriser les zones inondées",
+          "C) Les agriculteurs qui interviennent directement dans les zones affectées"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Pourquoi la Corse est-elle particulièrement exposée aux risques d’incendie ?",
+        "options": [
+          "A) Son climat méditerranéen chaud et sec favorise les incendies",
+          "B) Son relief montagneux empêche toute propagation de feu",
+          "C) Sa densité de population est faible, ce qui réduit les risques d’incendies"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quels aménagements sont mis en place en Corse pour prévenir les incendies de forêt ?",
+        "options": [
+          "A) Des zones tampons et des pare-feu autour des zones sensibles",
+          "B) La plantation de végétation inflammable pour maintenir l'équilibre écologique",
+          "C) La construction de gratte-ciel en béton dans les forêts"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Comment les incendies en Corse sont-ils liés à l'urbanisation croissante ?",
+        "options": [
+          "A) L'urbanisation réduit la fréquence des incendies en stabilisant les sols",
+          "B) L'urbanisation crée davantage de zones vulnérables à la propagation des incendies",
+          "C) L'urbanisation n'a aucun lien avec les incendies en Corse"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "En période de forte chaleur et de sécheresse, qui sont les principaux acteurs à intervenir pour lutter contre les incendies en Corse ?",
+        "options": [
+          "A) Les pompiers et les équipes spécialisées dans les interventions en milieu forestier",
+          "B) Les habitants locaux, qui font office de sentinelles",
+          "C) Les touristes, qui évitent les zones dangereuses"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Les vents violents en Corse, tels que le Mistral, sont-ils fréquents ?",
+        "options": [
+          "A) Oui, ils sont fréquents et peuvent provoquer des dégâts dans les zones exposées",
+          "B) Non, ces vents sont rares et n'affectent pas le climat en Corse",
+          "C) Oui, mais seulement pendant l'hiver"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Comment la Corse se prépare-t-elle aux effets des vents violents ?",
+        "options": [
+          "A) En installant des protections naturelles comme des forêts pour ralentir les vents",
+          "B) En créant des murs de béton autour des villes",
+          "C) En organisant des évacuations obligatoires avant chaque tempête"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "L'urbanisation croissante en Corse aggrave-t-elle les risques liés aux vents violents ?",
+        "options": [
+          "A) Non, l'urbanisation n'affecte pas la vitesse des vents",
+          "B) Oui, l'urbanisation crée des espaces dégagés qui favorisent la force des vents sur les zones urbaines",
+          "C) Oui, mais uniquement dans les zones rurales"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quels sont les principaux acteurs à intervenir en Corse pour limiter les risques liés aux vents violents ?",
+        "options": [
+          "A) Les autorités locales qui mettent en place des infrastructures de protection et avertissent la population",
+          "B) Les équipes agricoles qui protègent les cultures",
+          "C) Les touristes qui évitent les zones à risques"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Quels sont les principaux risques sanitaires liés aux catastrophes en Corse ?",
+        "options": [
+          "A) Les maladies infectieuses dues aux inondations et à la gestion des déchets",
+          "B) La déshydratation en raison de l'excès de chaleur",
+          "C) Les infections respiratoires causées par l'air sec"
+        ],
+        "answer": 1
+      },
+      {
+        "question": "Comment le vieillissement de la population en Corse influence-t-il la gestion des risques sanitaires ?",
+        "options": [
+          "A) Les personnes âgées sont moins vulnérables aux épidémies",
+          "B) Les personnes âgées sont plus vulnérables aux maladies et nécessitent une attention particulière en cas de crise",
+          "C) Le vieillissement n'a aucun impact sur la gestion des risques sanitaires"
+        ],
+        "answer": 2
+      },
+      {
+        "question": "Quel rôle joue le tourisme dans les risques sanitaires pendant une catastrophe en Corse ?",
+        "options": [
+          "A) Le tourisme n'a pas d'impact sur les risques sanitaires",
+          "B) Les grandes foules peuvent compliquer l'accès aux soins et augmenter les risques de contagion",
+          "C) Le tourisme aide à prévenir les risques sanitaires en apportant des ressources"
+        ],
+        "answer": 2
+      }
+    ]
+  }
+  

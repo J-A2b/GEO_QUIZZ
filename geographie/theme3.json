@@ -1,0 +1,139 @@
+{
+    "questions": [
+    {
+      "question": "Comment la situation géographique de la Corse contribue-t-elle à son développement touristique ?",
+      "options": [
+        "Sa position isolée en fait une destination moins attractive",
+        "Sa beauté naturelle et ses plages attirent de nombreux touristes",
+        "Son éloignement de la mer Méditerranée la rend peu touristique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En quoi l'isolement de la Corse en tant qu'île protège-t-elle l'environnement ?",
+      "options": [
+        "Cela limite l'accès aux ressources naturelles",
+        "Cela rend difficile l'arrivée d'influences extérieures nuisibles",
+        "Cela empêche la croissance démographique"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel rôle joue le tourisme dans les risques liés à l'urbanisation en Corse ?",
+      "options": [
+        "Il réduit les risques en concentrant les constructions dans des zones spécifiques",
+        "Il aggrave les risques en favorisant l'urbanisation dans des zones sensibles",
+        "Il n'a aucun effet sur les risques liés à l'urbanisation"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Le tourisme a-t-il un impact sur la gestion des catastrophes en Corse ?",
+      "options": [
+        "Non, car les infrastructures touristiques sont peu nombreuses",
+        "Oui, car les zones touristiques peuvent être difficiles à évacuer en cas de catastrophe",
+        "Oui, mais uniquement en hiver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Le relief montagneux de la Corse a-t-il un impact sur les risques liés aux catastrophes naturelles ?",
+      "options": [
+        "Non, les montagnes ne sont pas concernées par les catastrophes",
+        "Oui, en augmentant les risques d’érosion, de glissements de terrain et d’incendies",
+        "Oui, mais uniquement pour les risques liés aux inondations"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "En raison de son relief, quel type de catastrophe est particulièrement fréquent en Corse ?",
+      "options": [
+        "Les séismes",
+        "Les avalanches",
+        "Les incendies de forêt et les glissements de terrain"
+      ],
+      "answer": 2
+    },
+    {
+      "question": "Le relief de la Corse affecte-t-il les infrastructures nécessaires pour lutter contre les catastrophes naturelles ?",
+      "options": [
+        "Non, il n’a pas d'impact",
+        "Oui, le relief difficile peut compliquer l'accès aux zones sinistrées",
+        "Oui, il permet une meilleure répartition des infrastructures"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Les montagnes corses créent-elles des microclimats qui peuvent aggraver les risques ?",
+      "options": [
+        "Non, le climat est uniforme sur toute l'île",
+        "Oui, elles créent des variations climatiques locales qui peuvent affecter les incendies et les inondations",
+        "Oui, mais seulement en hiver"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Comment la croissance démographique de la Corse influence-t-elle les risques liés aux catastrophes naturelles ?",
+      "options": [
+        "Elle diminue les risques en améliorant les infrastructures",
+        "Elle augmente la pression sur les ressources naturelles et les infrastructures, aggravant les risques",
+        "Elle n’a aucun effet sur les risques"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La population corse est-elle répartie de manière équilibrée sur l'île ?",
+      "options": [
+        "Oui, la population est répartie uniformément",
+        "Non, elle est concentrée dans les zones côtières et certaines villes spécifiques",
+        "Non, la population se concentre uniquement dans les montagnes"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "Quel impact la forte concentration de la population dans les zones côtières a-t-elle sur les risques en Corse ?",
+      "options": [
+        "Elle réduit les risques d'inondation et d'incendie",
+        "Elle augmente la vulnérabilité aux risques d'inondations, de tempêtes et de risques côtiers",
+        "Elle n'affecte pas les risques"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La croissance démographique entraîne-t-elle une augmentation de l'urbanisation en Corse ?",
+      "options": [
+        "Oui, de nouvelles constructions sont nécessaires pour loger les habitants",
+        "Non, la croissance démographique n'entraîne aucune nouvelle construction",
+        "Oui, mais uniquement dans les zones rurales"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Pourquoi la Corse fait-elle face à une démographie déséquilibrée ?",
+      "options": [
+        "Les jeunes quittent l'île, ce qui laisse une population plus âgée concentrée dans certaines régions",
+        "Les jeunes arrivent en masse, mais ils s’installent principalement dans les montagnes",
+        "La population est répartie équitablement entre les villes et la campagne"
+      ],
+      "answer": 0
+    },
+    {
+      "question": "Comment le vieillissement de la population en Corse influence-t-il les risques lors des catastrophes naturelles ?",
+      "options": [
+        "Les personnes âgées sont moins vulnérables aux catastrophes",
+        "Le vieillissement de la population augmente la vulnérabilité aux risques, surtout pour ceux vivant dans les zones rurales",
+        "Cela n'a aucun impact sur les risques"
+      ],
+      "answer": 1
+    },
+    {
+      "question": "La croissance démographique en Corse entraîne-t-elle une pression supplémentaire sur les ressources naturelles et l’environnement ?",
+      "options": [
+        "Non, la population ne consomme pas beaucoup de ressources",
+        "Oui, la demande croissante en eau, en énergie et en aménagements aggrave les risques environnementaux",
+        "Oui, mais seulement pendant l'été"
+      ],
+      "answer": 1
+    }
+]
+}

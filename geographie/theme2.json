@@ -1,0 +1,80 @@
+{
+    "questions": [
+    {
+      "question": "Comment le dérèglement climatique affecte-t-il les risques en Corse ?",
+      "options": ["A) Il réduit la fréquence des catastrophes naturelles", "B) Il augmente la fréquence et l'intensité des catastrophes, comme les incendies et les inondations", "C) Il n'a aucun impact sur les risques en Corse"],
+      "answer": 2
+    },
+    {
+      "question": "Quelles conditions climatiques extrêmes sont de plus en plus fréquentes en Corse en raison du dérèglement climatique ?",
+      "options": ["A) Les tempêtes de neige", "B) Les vagues de chaleur et les incendies", "C) Les sécheresses modérées"],
+      "answer": 2
+    },
+    {
+      "question": "Quel est l'impact du dérèglement climatique sur les incendies en Corse ?",
+      "options": ["A) Les incendies deviennent moins fréquents mais plus longs", "B) Les incendies sont plus courts mais plus violents", "C) Les incendies deviennent plus fréquents, plus longs et plus violents"],
+      "answer": 3
+    },
+    {
+      "question": "Le dérèglement climatique contribue-t-il à l'augmentation du niveau de la mer en Corse ?",
+      "options": ["A) Oui, cela peut entraîner des risques d'inondations côtières", "B) Non, il n'y a pas d'impact sur le niveau de la mer", "C) Oui, mais uniquement sur les côtes du continent"],
+      "answer": 1
+    },
+    {
+      "question": "En quoi le vieillissement de la population en Corse accentue-t-il les risques liés aux catastrophes ?",
+      "options": ["A) Les personnes âgées sont plus susceptibles d'être vulnérables aux vagues de chaleur et d'inondations", "B) Les personnes âgées sont plus résistantes aux catastrophes", "C) Le vieillissement de la population n’a aucun effet sur les risques"],
+      "answer": 1
+    },
+    {
+      "question": "Pourquoi les personnes âgées sont-elles particulièrement vulnérables lors des catastrophes naturelles ?",
+      "options": ["A) Elles ont plus de ressources pour faire face à la situation", "B) Elles sont souvent moins mobiles et peuvent avoir des problèmes de santé", "C) Elles sont mieux préparées aux catastrophes"],
+      "answer": 2
+    },
+    {
+      "question": "Quel type de catastrophe naturelle affecte particulièrement la population âgée en Corse ?",
+      "options": ["A) Les tremblements de terre", "B) Les incendies de forêt", "C) Les vagues de chaleur et les inondations"],
+      "answer": 3
+    },
+    {
+      "question": "Quel facteur rend encore plus risqué pour les personnes âgées d'être confrontées à des catastrophes en Corse ?",
+      "options": ["A) Leur capacité à se déplacer rapidement", "B) La diminution de l'accès aux soins de santé dans les zones rurales", "C) Leur faible utilisation des technologies modernes"],
+      "answer": 2
+    },
+    {
+      "question": "Comment l'urbanisation en Corse augmente-t-elle les risques liés aux catastrophes naturelles ?",
+      "options": ["A) Elle améliore la gestion des risques", "B) Elle augmente la vulnérabilité en concentrant les populations dans des zones à risque", "C) Elle diminue les risques en renforçant les infrastructures"],
+      "answer": 2
+    },
+    {
+      "question": "Quel est l'effet de l'urbanisation sur les incendies en Corse ?",
+      "options": ["A) Elle réduit les incendies en améliorant la gestion forestière", "B) Elle augmente les risques en rapprochant les habitations des zones forestières", "C) Elle n'a aucun effet sur les incendies"],
+      "answer": 2
+    },
+    {
+      "question": "En quoi l’urbanisation affecte-t-elle la gestion des risques d’inondations en Corse ?",
+      "options": ["A) Elle améliore le drainage des eaux de pluie", "B) Elle obstrue les voies d’évacuation naturelles et augmente les risques d'inondations", "C) Elle n'a aucun impact sur les risques d'inondations"],
+      "answer": 2
+    },
+    {
+      "question": "L’urbanisation en Corse crée également des risques pour l’environnement. Lequel ?",
+      "options": ["A) Elle favorise la biodiversité", "B) Elle réduit l’emprise de l’agriculture sur l’environnement", "C) Elle réduit la surface des espaces verts et modifie les écosystèmes"],
+      "answer": 3
+    },
+    {
+      "question": "Comment le tourisme en Corse peut-il aggraver les risques liés aux incendies ?",
+      "options": ["A) Les touristes respectent mieux les règles de prévention des incendies", "B) Les activités de plein air et les comportements imprudents augmentent les risques d'incendie", "C) Le tourisme n'a aucun impact sur les incendies"],
+      "answer": 2
+    },
+    {
+      "question": "Le tourisme peut-il aggraver les risques d’inondations en Corse ?",
+      "options": ["A) Oui, en saturant les infrastructures d’assainissement et en construisant dans des zones inondables", "B) Non, car les touristes sont bien informés des risques", "C) Oui, mais uniquement en hiver"],
+      "answer": 1
+    },
+    {
+      "question": "Quel est l’impact du tourisme sur l’urbanisation en Corse ?",
+      "options": ["A) Il aide à protéger les zones rurales contre l’urbanisation", "B) Il incite à construire davantage dans des zones fragiles, augmentant ainsi les risques", "C) Il réduit l’urbanisation dans les zones côtières"],
+      "answer": 2
+    }
+]
+}
+  
