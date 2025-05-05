@@ -49,7 +49,7 @@ function getUserData($username, $level) {
             <?php
             $utilisateurs = [];
 
-            for ($niv = 1; $niv <= 3; $niv++) {
+            for ($niv = 1; $niv <= 4; $niv++) {
                 $fichier = "theme{$niv}.txt";
                 if (!file_exists($fichier)) continue;
                 $lignes = file($fichier, FILE_IGNORE_NEW_LINES);
@@ -68,7 +68,7 @@ function getUserData($username, $level) {
             uasort($utilisateurs, fn($a, $b) => $b['total'] <=> $a['total']);
 
             echo "<table>";
-            echo "<thead><tr><th>Utilisateur</th><th>theme 1</th><th>theme 2</th><th>theme 3</th><th>theme 4</th><th>Score total</th></tr></thead><tbody>";
+            echo "<thead><tr><th>Utilisateur</th><th>Score</th></tr></thead><tbody>";
             foreach ($utilisateurs as $user => $data) {
                 $t1s = $data['theme1_score'] ?? 0;
                 $t2s = $data['theme2_score'] ?? 0;
@@ -76,10 +76,7 @@ function getUserData($username, $level) {
                 $t4s = $data['theme4_score'] ?? 0;
                 echo "<tr>
                     <td data-label='Utilisateur'>$user</td>
-                    <td data-label='theme 1'>$t1s pts </td>
-                    <td data-label='theme 2'>$t2s pts </td>
-                    <td data-label='theme 3'>$t3s pts </td>
-                    <td data-label='theme 4'>$t4s pts </td>
+                    
                     <td data-label='Total'><strong>{$data['total']}</strong> pts</td>
                 </tr>";
             }
@@ -118,7 +115,7 @@ function getUserData($username, $level) {
         </div>
         </div>
     </div>
-    <footer><h6>Réalisé par Jean-Antoine Dary®. Github pour le code source et demandes d'ajout: <a href="https://github.com/J-A2b/Chinois-HSK">ici</a></h6></footer>
+    <footer><h6>Tout droits réservés Jean-Antoine Dary®. Code source: <a href="https://github.com/J-A2b/GEO_QUIZZ">ici</a></h6></footer>
 </body>
 <style>
     /* style du tableau responsive, simple, couleurs rouges */
